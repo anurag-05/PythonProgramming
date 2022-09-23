@@ -8,4 +8,4 @@ for i in range(int(input())):
             count+= 1
     num.insert(i, count)
 
-print(*num, sep = "\n")    #Splat operator | prints list without loops | def valye sep = ' '
+print(*num, sep = "\n")    #Splat operator | Print list without loops | def valye sep = ' '
